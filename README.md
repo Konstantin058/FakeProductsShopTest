@@ -5,5 +5,4 @@
 HomeViewController
 
 ![HomeViewController](https://github.com/Konstantin058/FakeProductsShopTest/blob/main/Home.png)
-![](https://github.com/Konstantin058/FakeProductsShopTest/blob/main/Home.png | width=100)
-![](https://github.com/Konstantin058/FakeProductsShopTest/blob/main/Home.png =200x200)
+
